@@ -1,1 +1,1 @@
-C++ online MTT source code. based on OpenCV.
+C++ online MTT source code based on OpenCV.
