@@ -269,7 +269,7 @@ void SceneTest::processFrame()
 		}
 	}
 	_ttargets.clear();
-	_ttargets.swap(targets);  //////////////////////////////////memory leakage
+	_ttargets.swap(targets);
 }
 
 void SceneTest::terminate()
